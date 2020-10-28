@@ -7,6 +7,6 @@ First I start with the list of 100 Must-Read NLP Papers inspired by [Daniel Taka
 
 ### Machine Learning
 1. Avrim Blum and Tom Mitchell: [Combining Labeled and Unlabeled Data with Co-Training, 1998](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf)
-  * [The PAC learning model] (https://www.cs.utexas.edu/~klivans/f06lec2.pdf)
+   - [The PAC learning model] (https://www.cs.utexas.edu/~klivans/f06lec2.pdf)
 2. John Lafferty, Andrew McCallum, Fernando C.N. Pereira: [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
 3. Charles Sutton, Andrew McCallum: [An Introduction to Conditional Random Fields for Relational Learning](https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf)
