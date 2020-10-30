@@ -2,11 +2,14 @@
 This repository contains a list of research articles and my notes on deep learning related topics. 
 My current goal is to read at least three papers per week. Ultimately, it will be one paper per day. 
 
-Here it begins the journey. 
-First I start with the list of 100 Must-Read NLP Papers inspired by [Daniel Takashi](http://masatohagiwara.net/100-nlp-papers/)
+The source of papers:
+   - [paperswithcode](https://paperswithcode.com/sota)
+   - [Masato Hagiwara](http://masatohagiwara.net/100-nlp-papers/)
+   - [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes)
+   - [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes)
+   
 
-### Machine Learning
-1. Avrim Blum and Tom Mitchell: [Combining Labeled and Unlabeled Data with Co-Training, 1998](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf)
-   - [The PAC learning model](https://www.cs.utexas.edu/~klivans/f06lec2.pdf)
-2. John Lafferty, Andrew McCallum, Fernando C.N. Pereira: [Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers)
-3. Charles Sutton, Andrew McCallum: [An Introduction to Conditional Random Fields for Relational Learning](https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf)
+### Reinforcement Learning
+1. Oriol Vinyals, et al. [StarCraftII: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782v1.pdf)
+2. Oriol Vinyals, et al. [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf)
+3. Vinicius Zambaldi, et al. [Relational Deep Reinforcement Learning](https://arxiv.org/pdf/1806.01830v2.pdf)
