@@ -13,3 +13,8 @@ The source of papers:
 1. Oriol Vinyals, et al. [StarCraftII: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782v1.pdf)
 2. Oriol Vinyals, et al. [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf)
 3. Vinicius Zambaldi, et al. [Relational Deep Reinforcement Learning](https://arxiv.org/pdf/1806.01830v2.pdf)
+4. Emre O.Neftci and Bruno B.Averbeck. [Reinforcement learning in artificial and biological systems](https://www.nature.com/articles/s42256-019-0025-4)
+
+### Deep Learning
+1. Yann LeCun, Yoshua Bengio, Geoffrey hinton. [Deep Learning](https://www.researchgate.net/publication/277411157_Deep_Learning)
+ 
