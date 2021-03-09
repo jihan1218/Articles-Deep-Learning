@@ -1,6 +1,5 @@
 # Journey to AI Research Scientist
 This repository contains a list of research articles and my notes on deep learning related topics. 
-My current goal is to read at least three papers per week. Ultimately, it will be one paper per day. 
 
 The source of papers:
    - [paperswithcode](https://paperswithcode.com/sota)
